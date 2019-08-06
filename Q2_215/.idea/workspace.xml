@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="Q1_283" targetName="Q1_283" />
+      <config projectName="Q2_215" targetName="Q2_215" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,8 +11,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f879dbc2-a470-4d77-984d-c976799b21a5" name="Default Changelist" comment="">
+    <list default="true" id="11af9e7d-3650-4d4f-a304-a8dcfc32e4e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Q2_75/.idea/Q2_75.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2_75/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2_75/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2_75/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Q1_26/.main.cpp.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1_283/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1_283/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="357">
+              <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -59,7 +64,7 @@
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
-        <option value="$PROJECT_DIR$/.idea/Q1_283.iml" />
+        <option value="$PROJECT_DIR$/.idea/Q2_215.iml" />
         <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
@@ -83,9 +88,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -102,7 +105,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Q1_283" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Q1_283" TARGET_NAME="Q1_283" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Q1_283" RUN_TARGET_NAME="Q1_283">
+    <configuration name="Q2_215" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Q2_215" TARGET_NAME="Q2_215" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Q2_215" RUN_TARGET_NAME="Q2_215">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -113,40 +116,39 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f879dbc2-a470-4d77-984d-c976799b21a5" name="Default Changelist" comment="" />
-      <created>1564628333224</created>
+      <changelist id="11af9e7d-3650-4d4f-a304-a8dcfc32e4e4" name="Default Changelist" comment="" />
+      <created>1565009867874</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564628333224</updated>
-      <workItem from="1564628334373" duration="3217000" />
-      <workItem from="1564729779971" duration="443000" />
-      <workItem from="1564744645449" duration="163000" />
-      <workItem from="1564990719438" duration="63000" />
+      <updated>1565009867874</updated>
+      <workItem from="1565009868971" duration="3311000" />
+      <workItem from="1565058383989" duration="6595000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3886000" />
+    <option name="totallyTimeSpent" value="9906000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-6" width="1920" height="1023" extended-state="6" />
+    <frame x="-1" y="-11" width="1922" height="1029" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15010683" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25320512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3293348" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3293348" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293348" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.3293348" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -162,8 +164,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="357">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
