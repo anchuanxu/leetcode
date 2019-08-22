@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Q5_350.dir/main.cpp.o  -o Q5_350 

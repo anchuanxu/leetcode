@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/aobenweilai_1.dir/main.cpp.o  -o aobenweilai_1 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Q9_220.dir/main.cpp.o  -o Q9_220 

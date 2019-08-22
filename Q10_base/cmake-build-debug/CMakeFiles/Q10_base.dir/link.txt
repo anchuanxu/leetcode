@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Q10_base.dir/main.cpp.o  -o Q10_base 
