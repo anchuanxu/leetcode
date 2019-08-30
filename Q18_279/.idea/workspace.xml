@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="Q14_19" targetName="Q14_19" />
+      <config projectName="Q18_279" targetName="Q18_279" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b4de17a-f62b-4db1-b039-90ec6fbc17bf" name="Default Changelist" comment="" />
+    <list default="true" id="4bdfecff-efb3-466b-801b-ef0dcb42e8c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Q14_19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Q14_19/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="8" selection-end-line="41" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -57,7 +59,7 @@
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
-        <option value="$PROJECT_DIR$/.idea/Q14_19.iml" />
+        <option value="$PROJECT_DIR$/.idea/Q18_279.iml" />
         <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
@@ -76,12 +78,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -99,7 +100,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Q14_19" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Q14_19" TARGET_NAME="Q14_19" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Q14_19" RUN_TARGET_NAME="Q14_19">
+    <configuration name="Q18_279" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Q18_279" TARGET_NAME="Q18_279" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Q18_279" RUN_TARGET_NAME="Q18_279">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -110,29 +111,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5b4de17a-f62b-4db1-b039-90ec6fbc17bf" name="Default Changelist" comment="" />
-      <created>1566827203091</created>
+      <changelist id="4bdfecff-efb3-466b-801b-ef0dcb42e8c5" name="Default Changelist" comment="" />
+      <created>1567132010465</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1566827203091</updated>
-      <workItem from="1566827204180" duration="776000" />
-      <workItem from="1566872279813" duration="21000" />
+      <updated>1567132010465</updated>
+      <workItem from="1567132011644" duration="397000" />
+      <workItem from="1567135705472" duration="1508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="797000" />
+    <option name="totallyTimeSpent" value="1905000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-6" width="1920" height="1023" extended-state="6" />
+    <frame x="-1" y="-11" width="1922" height="1029" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25320512" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25320512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3293348" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293348" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -157,8 +159,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="8" selection-end-line="41" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xu/repo/leetcode/Q19_priority_queue/main.cpp
+iostream
+-
+queue
+-
+ctime
+-
+vector
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Q19_347.dir/main.cpp.o  -o Q19_347 
