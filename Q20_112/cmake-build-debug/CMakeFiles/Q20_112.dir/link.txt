@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Q20_112.dir/main.cpp.o  -o Q20_112 

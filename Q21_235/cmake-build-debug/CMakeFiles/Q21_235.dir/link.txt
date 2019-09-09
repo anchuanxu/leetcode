@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Q21_235.dir/main.cpp.o  -o Q21_235 
