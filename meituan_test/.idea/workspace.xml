@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="Q23_77" targetName="Q23_77" />
+      <config projectName="meituan_test" targetName="meituan_test" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,8 +11,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25c31170-9561-47ba-80b9-821e101ba3c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b3ca59f1-9703-448b-9a12-e4f497179607" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Q23_77/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Q23_77/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -59,7 +56,7 @@
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
-        <option value="$PROJECT_DIR$/.idea/Q23_77.iml" />
+        <option value="$PROJECT_DIR$/.idea/meituan_test.iml" />
         <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
@@ -68,9 +65,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="41" />
-    <option name="y" value="69" />
+    <option name="y" value="39" />
     <option name="width" value="1740" />
-    <option name="height" value="880" />
+    <option name="height" value="910" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -78,12 +75,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -101,7 +97,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Q23_77" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Q23_77" TARGET_NAME="Q23_77" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Q23_77" RUN_TARGET_NAME="Q23_77">
+    <configuration name="meituan_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="meituan_test" TARGET_NAME="meituan_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="meituan_test" RUN_TARGET_NAME="meituan_test">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -112,24 +108,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="25c31170-9561-47ba-80b9-821e101ba3c5" name="Default Changelist" comment="" />
-      <created>1568019890024</created>
+      <changelist id="b3ca59f1-9703-448b-9a12-e4f497179607" name="Default Changelist" comment="" />
+      <created>1568185621466</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568019890024</updated>
-      <workItem from="1568019891093" duration="1731000" />
-      <workItem from="1568083696452" duration="293000" />
-      <workItem from="1568184021395" duration="625000" />
+      <updated>1568185621466</updated>
+      <workItem from="1568185622795" duration="707000" />
+      <workItem from="1568269794942" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2649000" />
+    <option name="totallyTimeSpent" value="723000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-6" width="1920" height="1023" extended-state="6" />
+    <frame x="-1" y="-11" width="1922" height="1029" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19925214" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22863248" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -159,11 +155,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>

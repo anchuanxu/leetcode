@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Q24_200.dir/main.cpp.o  -o Q24_200 
