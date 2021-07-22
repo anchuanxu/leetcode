@@ -1,5 +1,5 @@
 //
-// Created by 折剑山庄 on 2021/3/18.
+// Created by 安传旭 on 2021/3/18.
 //
 /*请考虑一棵二叉树上所有的叶子，这些叶子的值按从左到右的顺序排列形成一个 叶值序列 。请判断两棵树的叶值序列，如果相等，则返回true，如果不等，则返回false*/
 
@@ -102,7 +102,7 @@ int main()
     }
     TreeNode *Tree1, *Tree2;
     Tree1 = sup.initBTree(nums1, numSize1);
-    Tree2 = sup.initBTree(nums2, numSize2);
+    Tree2 = sup.initBTree(nums1, numSize1);
     bool result;
     result = solution.leafSimilar(Tree1,Tree2);
     cout << "This two tree leafSimilarl is : " ;
