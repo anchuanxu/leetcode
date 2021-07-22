@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Q2_88.dir/main.cpp.o  -o Q2_88 

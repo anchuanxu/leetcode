@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Q23_77.dir/main.cpp.o  -o Q23_77 

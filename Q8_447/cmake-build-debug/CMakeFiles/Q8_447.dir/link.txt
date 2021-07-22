@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Q8_447.dir/main.cpp.o  -o Q8_447 

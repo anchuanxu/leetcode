@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Q16_144.dir/main.cpp.o  -o Q16_144 

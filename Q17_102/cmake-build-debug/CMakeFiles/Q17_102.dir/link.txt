@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Q17_102.dir/main.cpp.o  -o Q17_102 

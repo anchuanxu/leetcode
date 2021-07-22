@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Q18_279.dir/main.cpp.o  -o Q18_279 

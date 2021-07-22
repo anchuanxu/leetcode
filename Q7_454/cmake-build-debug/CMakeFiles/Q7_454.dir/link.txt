@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Q7_454.dir/main.cpp.o  -o Q7_454 

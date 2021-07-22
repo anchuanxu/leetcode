@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Q22_46.dir/main.cpp.o  -o Q22_46 
