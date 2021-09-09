@@ -1,3 +1,0 @@
-/home/xu/repo/leetcode/Q5_map/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/xu/repo/leetcode/Q5_map/cmake-build-debug/CMakeFiles/Q5_map.dir
-/home/xu/repo/leetcode/Q5_map/cmake-build-debug/CMakeFiles/edit_cache.dir

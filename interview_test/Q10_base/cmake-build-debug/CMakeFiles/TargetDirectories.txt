@@ -1,3 +1,0 @@
-/home/xu/repo/leetcode/Q10_base/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/xu/repo/leetcode/Q10_base/cmake-build-debug/CMakeFiles/Q10_base.dir
-/home/xu/repo/leetcode/Q10_base/cmake-build-debug/CMakeFiles/edit_cache.dir

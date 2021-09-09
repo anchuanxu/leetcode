@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Q5_map.dir/main.cpp.o  -o Q5_map 

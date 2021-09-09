@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Q19_priority_queue.dir/main.cpp.o  -o Q19_priority_queue 
