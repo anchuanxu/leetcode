@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <unordered_set>
 
 using namespace std;
 
@@ -26,6 +27,46 @@ public:
         }
         return res;
 
+    }
+};
+
+class Solution2 {
+public:
+int lengthOfLongestSubstring(string s) {
+    vector<int> m(128, 0); //ASCII码范围：0-127
+    int ans = 0;
+    int i = 0;
+    for (int j = 0; j < s.size(); j++) {
+        if(m[s[j]]!=0)  
+        {
+            i = max(i, m[s[j]]);
+        }
+        m[s[j]] = j + 1;
+        ans = max(ans, j - i + 1);
+    }
+    return ans;
+}
+};
+
+class Solution3{
+    public:
+    int lengthOfLongestSubstring(string s) 
+    {
+        int res = 0;
+        unordered_set<char> window;
+        int left = 0;
+        for(int i = 0; i < s.size(); i++)
+        {
+            // find s[i] exist in window
+            while(window.find(s[i]) != window.end())
+            {
+                window.erase(s[left]);
+                left++;
+            }
+            window.insert(s[i]);
+            res = max(res, i-left+1);
+        }
+      return res;
     }
 };
 
